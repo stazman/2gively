@@ -1,0 +1,11 @@
+{
+  "name": "2gively",
+  "version": "1.0.0",
+  "description": "Provides people and businesses in need with unused inventory in exchange for goodwill",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher DiStasio",
+  "license": "ISC"
+}
