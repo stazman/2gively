@@ -1,10 +1,31 @@
-.DS_Store
-node_modules
-/dist
+# dependencies
+**/node_modules
+/.pnp
+.pnp.js
 
-# local env files
+# testing
+/coverage
+
+# production
+/build
+
+# local env files and misc
+.DS_Store
+.env
 .env.local
 .env.*.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+bundle.js
+client/bundle.js
+
+config/default.json
+
+/dist
+
 
 # Log files
 npm-debug.log*

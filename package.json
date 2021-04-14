@@ -9,6 +9,7 @@
   "author": "Christopher DiStasio",
   "license": "ISC",
   "dependencies": {
+    "config": "^3.3.6",
     "express": "^4.17.1",
     "express-formidable": "^1.2.0",
     "mongoose": "^5.12.3"
